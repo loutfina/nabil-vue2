@@ -1,0 +1,80 @@
+[
+    {
+        "vuuid" : "564987-fdsf5-65sdfs65-65sd4f-8s7df5",
+        "OP" :"A",
+        "CA": "032",
+        "police":"987645", 
+        "avenant":"00000001",  
+        "receptionDate": "2025-08-12 11:00", 
+        "sendDate": "2025-08-12 11:00",
+        "effectiveDate": "2025-08-12 11:00",
+        "label":"Renauld Clio", 
+        "vrn": "DF-5488", 
+        "vin": "AA123B456C000"
+    },
+    {
+        "vuuid" : "fdsfsdf-546sdf-sdf897e-sdf2115",
+        "OP" :"N",
+        "CA": "032",
+        "police":"123855", 
+        "avenant":"00000005",  
+        "receptionDate": "2022-08-12 11:00", 
+        "sendDate": "2021-08-12 11:00",
+        "effectiveDate": "2021-08-12 11:00",
+        "label":"Peugeot 3008", 
+        "vrn": "DV-5283", 
+        "vin": "FDS872FDS52882"
+    },
+    {
+        "vuuid" : "9999fds-fdsf5-65sdfs65-fds3200-8s7df5",
+        "OP" :"A",
+        "CA": "032",
+        "police":"0587442", 
+        "avenant":"00000002",  
+        "receptionDate": "2019-08-12 11:00", 
+        "sendDate": "2020-01-12 11:00",
+        "effectiveDate": "2021-12-12 11:00",
+        "label":"Volvo XC40", 
+        "vrn": "ZK-6588", 
+        "vin": "BB456HKYI982SD"
+    },
+    {
+        "vuuid" : "564987-fdsf5-65sdfs65-65sd4f-8s7df5",
+        "OP" :"A",
+        "CA": "032",
+        "police":"231546", 
+        "avenant":"00000001",  
+        "receptionDate": "2025-08-12 11:00", 
+        "sendDate": "2025-08-12 11:00",
+        "effectiveDate": "2025-08-12 11:00",
+        "label":"Renauld Capture", 
+        "vrn": "VV-8520", 
+        "vin": "QS09FDFLK3409FD"
+    },
+    {
+        "vuuid" : "fdsfsdf-546sdf-sdf897e-sdf2115",
+        "OP" :"N",
+        "CA": "032",
+        "police":"89765", 
+        "avenant":"00000005",  
+        "receptionDate": "2022-08-12 11:00", 
+        "sendDate": "2021-08-12 11:00",
+        "effectiveDate": "2021-08-12 11:00",
+        "label":"Peugeot 3008", 
+        "vrn": "LP-8547", 
+        "vin": "DFDF09D09FDLK34"
+    },
+    {
+        "vuuid" : "9999fds-fdsf5-65sdfs65-fds3200-8s7df5",
+        "OP" :"A",
+        "CA": "032",
+        "police":"6543108", 
+        "avenant":"00000002",  
+        "receptionDate": "2019-08-12 11:00", 
+        "sendDate": "2020-01-12 11:00",
+        "effectiveDate": "2021-12-12 11:00",
+        "label":"BMW X1", 
+        "vrn": "UU-8794", 
+        "vin": "VXC09DSFTLKE50E409"
+    }
+]

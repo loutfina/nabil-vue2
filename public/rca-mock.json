@@ -1,0 +1,65 @@
+{
+ "vuuid" : "564987-fdsf5-65sdfs65-65sd4f-8s7df5",
+ "coverages" : [
+    {
+        "creationDate" :"2021-10-05 12:20",
+        "startDate": "2021-02-05 00:00", 
+        "endDate": "2025-08-12 11:00", 
+        "insurance" : {"id":1, "name":"Foyer"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "DF-5488", 
+        "coverage":"987645", 
+        "version": 1
+    },
+    {
+        "creationDate" :"2020-10-05 12:20",
+        "startDate": "", 
+        "endDate": "2025-08-12 11:00", 
+        "insurance" : {"id":1, "name":"AXA"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "FG-6060", 
+        "coverage":"456789", 
+        "version": 2
+    },
+    {
+        "creationDate" :"2019-02-05 02:20",
+        "startDate": "2019-02-05 23:00", 
+        "endDate": null, 
+        "insurance" : {"id":1, "name":"LaLux"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "33685", 
+        "coverage":"039652", 
+        "version": 1
+    },
+    {
+        "creationDate" :"2021-10-02 12:20",
+        "startDate": "", 
+        "endDate": null, 
+        "insurance" : {"id":1, "name":"AXA"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "KK-669", 
+        "coverage":"987645", 
+        "version": 1
+    },
+    {
+        "creationDate" :"2020-10-05 12:20",
+        "startDate": "2020-02-05 00:00", 
+        "endDate": "2021-08-12 11:00", 
+        "insurance" : {"id":1, "name":"WEALINS"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "JB-007", 
+        "coverage":"395214", 
+        "version": 2
+    },
+    {
+        "creationDate" :"2019-02-05 02:20",
+        "startDate": "2019-02-05 23:00", 
+        "endDate": "", 
+        "insurance" : {"id":1, "name":"Allianz"}, 
+        "vin" :"AA123B456C789", 
+        "vrn": "33685", 
+        "coverage":"875236", 
+        "version": 1
+    }
+]
+}

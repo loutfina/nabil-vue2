@@ -1,0 +1,4 @@
+{
+    "desc" : "app-config.json will be copied in the server as a separate file and could be modified by an infra admin without rebuild",
+    "MIGRATION_CUT_DATE" : "2015-01-01"
+}
